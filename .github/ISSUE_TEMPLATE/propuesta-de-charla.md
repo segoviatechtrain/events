@@ -1,31 +1,24 @@
----
-name: Propuesta de charla
-about: Añade una nueva charla a nuestro backlog
-title: '[Propuesta] El título de tu charla'
-labels: new, charla
-assignees: ''
 
----
 ##### TITULO DE LA CHARLA
-<!--- Escribe aquí el título de tu charla -->
+DeepMind, la conquista de Atari 
 
 
 ##### RESUMEN DE LA CHARLA
-<!--- Escribe aquí una pequeña descripción de tu charla -->
-<!--- La usaremos para publicitar la charla en la web, UVa, etc. -->
+DeepMind, empresa de inteligencia artificial, es una de las últimas grandes adquisiciones de Google, 
+pero ¿por qué se fijó en esta empresa?
+Uno de los grandes logros que ha conseguido fue construir una IA capaz de batir las mejores puntuaciones
+que habíamos alcanzado en los juegos de Atari. Lo increible de este hecho es que en ningún momento se le 
+explicaron las reglas  a dicha inteligencia. La idea de esta charla es entender desde cero que es el
+aprendizaje por refuerzo y comprender la técnica que utilizaron para ello: Deep Q learning.
 
 
 ##### SPEAKER
-<!--- Escribe aquí el nombre con el que quieres presentar la charla -->
-<!--- Si no quieres utilizar tu nombre, usa un alias con el que te podamos localizar.. -->
+Guillermo Alonso Alonso de Linaje
 
 
 ##### ACERCA DE
-<!--- Escribe aquí una pequeña bio. -->
-<!--- La usaremos para publicitar la charla en la web, UVa, etc. -->
+Estudiante de la doble titulación de matemáticas e informática. Entusiasta de estas dos disciplinas
+y como su uso conjunto ofrece un gran abanico de posibilidades.
 
 
-##### OTROS
-<!--- Incluye aquí otros datos, por ejemplo si la duración es diferente de la establecida -->
-<!--- O cualquier otra cosa que quieras añadir... -->
 
