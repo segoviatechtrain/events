@@ -2,6 +2,12 @@
 
 Este repositorio pretende ser el centro de gestión de propuestas y solicitudes para los eventos organizados dentro de la comunidad Segovia Tech Train.
 
+## Proximas fechas para charlas
+
+27 de marzo, 24 de abril, 22 de mayo.
+
+Si existe alguna preferencia en cuanto a la fecha de la charla, podeís ponerlo en vuestra propuesta.
+
 ## Propuestas de charlas
 
 Los temas a tratar son abiertos, siempre dentro de la temática tecnología/informática/software, y de cualquier nivel: principiante, avanzado, divulgación, etc.
